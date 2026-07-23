@@ -97,9 +97,9 @@ Hexpansions are accessories that plug into the badge's expansion connectors. Alm
   </span>
     <span class="img-container">
     <img src=" ../../images/hexpansions/bleepie.jpg" loading="lazy" alt="Bleepie paging hexpansion on Tildagon badge" data-title="Bleepie paging hexpansion by Sam Machin" data-description=".custom-desc-bleepie">
-    <span class="label"><a href="https://www.youtube.com/watch?v=itg0bViiKIg">Bleepie paging hexpansion</a> by Sam Machin</span>
+    <span class="label"><a href="https://sammachin.com/bleepie">Bleepie paging hexpansion</a> by Sam Machin</span>
     <span class="viewme"><a href="https://www.youtube.com/watch?v=itg0bViiKIg"><p>🎥 WATCH IT</p></a></span>
-    <span class="viewme"><a href="https://github.com/sammachin/rp2040-hexpansion"><p>👀 VIEW FILES</p></a></span>
+    <span class="viewme"><a href="https://github.com/sammachin/bleepie-hw"><p>👀 VIEW FILES</p></a></span>
     <div class="glightbox-desc custom-desc-bleepie">
       <p>Paging hexpansion with RAIO2, RP2040, and bleeper modules. The badge detects the hexpansion on plug-in and can send and receive pages.</p>
       <p>Videos: <a href="https://www.youtube.com/watch?v=itg0bViiKIg">YouTube</a> · <a href="https://www.youtube.com/watch?v=791P1Sn_h2k">YouTube</a></p>
